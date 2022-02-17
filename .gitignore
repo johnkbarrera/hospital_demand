@@ -1,1 +1,8 @@
-src/*
+src/morbilidad_b2/*
+src/morbilidad_c2/*
+src/morbilidad_d2/*
+src/procedimientos/*
+data/morbilidad_b2.csv
+data/morbilidad_c2.csv
+data/morbilidad_d2.csv
+data/procedimientos.csv
