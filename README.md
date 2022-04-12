@@ -1,5 +1,11 @@
 
 
+# All data morbidity 
+ - hospital_demand/data/morbilidad_global.csv
+ - hospital_demand/agg/morbilidad_b2.csv
+ - hospital_demand/agg/morbilidad_c2.csv
+ - hospital_demand/agg/morbilidad_d2.csv
+
 # Diagnosis dict ICD10
  - hospital_demand/src/diagnosis.csv
  - hospital_demand/src/CIE10-VOLUMEN-2018-EXCEL.xlsx (spanish)
