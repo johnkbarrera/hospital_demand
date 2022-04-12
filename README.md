@@ -1,4 +1,5 @@
-
+# Slides
+    - ppt
 
 # All data morbidity 
  - hospital_demand/data/morbilidad_global.csv
@@ -18,3 +19,5 @@
 # Geo -hospitals
  - hospital_demand/src/geo_hospital/RENIPRESS_2022_v4.csv
 
+# Hospital Resources
+    - hospital_demand/src/Reporte_de_Recursos_de_Salud/
